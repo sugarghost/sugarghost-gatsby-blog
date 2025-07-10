@@ -2,10 +2,10 @@ export default {
   /**
    * basic Information
    */
-  title: `jeong-min.com`,
-  description: `개발자 단민`,
+  title: `sugartoast.kr`,
+  description: `설탕빵의 블로그`,
   language: `ko`,
-  siteUrl: `https://jeong-min.com/`,
+  siteUrl: `https://sugartoast.kr/`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
 
   /**
@@ -21,22 +21,21 @@ export default {
    * introduce yourself
    */
   author: {
-    name: `이정민`,
-    nickname: `단민`,
-    stack: ['Frontend', 'React', 'Typescript'],
+    name: `김윤교`,
+    nickname: `설탕빵`,
+    stack: ['Spring', 'C++', 'React', 'Python'],
     bio: {
-      email: `ljm991108@gmail.com`,
+      email: `code.sugartoast@gmail.com`,
       residence: 'Seoul, South Korea',
       bachelorDegree: 'Kyunghee Univ. Computer Engineering (2018.03-2022.02)',
     },
     social: {
-      github: `https://github.com/danmin20`,
-      linkedIn: `https://www.linkedin.com/in/jeonming-lee/`,
+      github: `https://github.com/sugarghost`,
       resume: `https://www.figma.com/file/dtkCl6G7G5DVe18DN2LWny/%EC%9D%B4%EC%A0%95%EB%AF%BC-%EC%9D%B4%EB%A0%A5%EC%84%9C?node-id=0%3A1`,
     },
     dropdown: {
-      tistory: 'https://danminblog.tistory.com/',
-      velog: 'https://velog.io/@danmin20',
+      tistory: 'https://sugartoast.tistory.com//',
+      velog: 'https://velog.io/@sugar_ghost',
     },
   },
 
